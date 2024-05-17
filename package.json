@@ -9,6 +9,8 @@
     "@hotwired/stimulus": "^3.2.2",
     "@hotwired/turbo-rails": "^8.0.4",
     "daisyui": "^4.11.1",
+    "react": "^19.0.0-rc-915b914b3a-20240515",
+    "react-dom": "^19.0.0-rc-915b914b3a-20240515",
     "sass": "^1.77.1"
   }
 }
